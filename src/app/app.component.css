@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  display: flex;
+  flex-direction: column;
+}
+
+.topology-viewer-component {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  align-items: stretch;
+  height: 900px;
+  background: #ffffff;
+}
